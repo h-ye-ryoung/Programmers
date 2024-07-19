@@ -1,5 +1,7 @@
 package Lv0;
 
+//2. OX 퀴즈
+
 import java.util.*;
 
 // 덧셈, 뺄셈 수식들이 'X [연산자] Y = Z' 형태로 들어있는 문자열 배열 quiz가 매개변수로 주어집니다.
